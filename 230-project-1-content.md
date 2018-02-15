@@ -6,6 +6,7 @@ Index Page
 
 ### A game that is a combination of luck and skill
 
+![Image of Shaping](https://github.com/baileyrusso/IGME-230-GDD-2018-Spring/blob/baileys/Shaping_Home.jpg)
 
 # Proposal
 
